@@ -33,7 +33,7 @@ Below are some samples of the visualizations I used to glean insights about the 
 
 ### Conclusion and Takeaways
 
-Floods, Droughts/Heat Waves/Fires, and Winter Weather events all show mild correlations between the economic damages they caused and rising CO2 levels. However, it does not completely resolve the question posed at the beginning of this project. To further this research, it may be useful to see if either increases in temperaure or increases in other greenhouse gases are more correlated with severe weather events. 
+Floods, Droughts/Heat Waves/Fires, and Winter Weather events all show mild correlations between the economic damages they caused and rising CO2 levels. However, it does not completely resolve the question posed at the beginning of this project. To further this research, it may be useful to see if either increases in temperayure or increases in other greenhouse gases are more correlated with severe weather events. 
 
 Additionally, a 25 year window is probably not a reasonable time frame to detect extremely severe weather events. For example, the term '100 year flood' is used to describe a flood of a certain severity that has an average rate of occurence of once every 100 years. So, if floods as severe as '100 year floods' were occuring twice as often as they used to be, there is only a 39.3% chance that one or more floods of that magnitude would even be observed in a 25 year sampling period. This makes the detection of an increase in this type of extreme weather event difficult. Unfortunately, the longitudinal data that this type of study would require, and with the same level of detail as the dataset used in this project, may be impossible to obtain. 
 
