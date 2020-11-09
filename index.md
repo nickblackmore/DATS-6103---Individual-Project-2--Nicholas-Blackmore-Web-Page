@@ -8,12 +8,8 @@ The data weather data I used for this project came from the National Oceanic and
 
 ### Visualizations
 
-1. !
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
-```
+1. Economic Damages by Year
+-<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -24,3 +20,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+This project is also published on Zenodo at: [Link](url)
+
