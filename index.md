@@ -9,30 +9,27 @@ The data weather data I used for this project came from the National Oceanic and
 ### Visualizations
 Below are some samples of the visualizations used to glean insights about the overall trends of weather events in the United States.
 
-1. Economic Damages by Year
--<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
--<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
--<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
+### 1. Economic Damages by Year
+-<img src="Economic Damages of All Events by Year.png" alt="image not found" class="inline"/>
+-<img src="Economic Damages of Drought, Heat, and Fires by Year.png" alt="image not found" class="inline"/>
+-<img src="Economic Damages of Tropical Storms and Hurricanes by Year.png" alt="image not found" class="inline"/>
 
-2. Location and Econoomic Damages by Weather Event Category
--<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
--<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
--<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
+### 2. Location and Econoomic Damages by Weather Event Category
+-<img src="Location and Economic Damages of Weather Events.png" alt="image not found" class="inline"/>
+-<img src="Location and Economic Damage of Tornados.png" alt="image not found" class="inline"/>
+-<img src="Location and Economic Damages of Floods.png" alt="image not found" class="inline"/>
 
-3. Top 10 States Ordered by Ecnomic Damages for Each Weather Event
--<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
--<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
--<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
+### 3. Top 10 States Ordered by Ecnomic Damages for Each Weather Event
+-<img src="10 states with most total damages.png" alt="image not found" class="inline"/>
+-<img src="10 States with most econ damages from fires.png" alt="image not found" class="inline"/>
+-<img src="10 states with the most economic damages from hurricanes" alt="image not found" class="inline"/>
 
-4. Correlation Between Yearly Economic Damages and Co2 Levels
--<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
--<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
--<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
+### 4. Correlation Between Yearly Economic Damages and Co2 Levels
+-<img src="C02 vs Economic Damages with trendline.png" alt="image not found" class="inline"/>
 
-5. Weather Events With the Highest Correlation between Economic Damages and Co2 Levels
--<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
--<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
--<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
+### 5. Weather Events With the Highest Correlation between Economic Damages and Co2 Levels
+-<img src="Correlations between economic damages and Co2 levels for each weather event.png" alt="image not found" class="inline"/>
+
 
 ### Conclusion and Takeaways
 
