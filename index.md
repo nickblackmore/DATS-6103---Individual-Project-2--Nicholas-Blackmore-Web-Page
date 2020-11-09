@@ -20,7 +20,7 @@ Below are some samples of the visualizations I used to glean insights about the 
 <img src="Location and Economic Damages of Floods.png" alt="image not found" class="inline"/>
 
 ### 3. Top 10 States Ordered by Ecnomic Damages for Each Weather Event
-<img src="10 states with most total damages.png" alt="image not found" class="inline"/>
+<img src="10 States with most total damages.png" alt="image not found" class="inline"/>
 <img src="10 States with most econ damages from fires.png" alt="image not found" class="inline"/>
 <img src="10 states with the most economic damages from hurricanes.png" alt="image not found" class="inline"/>
 
