@@ -7,19 +7,41 @@ Lately there has been considerable attention amongst climate scientists given to
 The data weather data I used for this project came from the National Oceanic and Atmospheric Administration and the carbon dioxide level data came from the Scrips Institute. Both data sets can be found on my github page: [DATS-6103 - Individual Project 2 - Nicholas Blackmore](https://github.com/nickblackmore/DATS-6103---Individual-Project-2--Nicholas-Blackmore). In terms of cleaning and pre-processing the data, my main tasks were adjusting monetary values for inflation; creating a singular metric for 'economic severity' using the Value of a Statistical Life (VSL), monetary value of crop damages, and monetary value of crop damage; and combining weather events in instances where they entered into the dataframe as different events. After I accomplished this, I was able to visualize the data. 
 
 ### Visualizations
+Below are some samples of the visualizations used to glean insights about the overall trends of weather events in the United States.
 
 1. Economic Damages by Year
 -<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
+-<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
+-<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2. Location and Econoomic Damages by Weather Event Category
+-<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
+-<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
+-<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
 
-### Jekyll Themes
+3. Top 10 States Ordered by Ecnomic Damages for Each Weather Event
+-<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
+-<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
+-<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nickblackmore/DATS-6103---Individual-Project-2--Nicholas-Blackmore-Web-Page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+4. Correlation Between Yearly Economic Damages and Co2 Levels
+-<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
+-<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
+-<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
 
-### Support or Contact
+5. Weather Events With the Highest Correlation between Economic Damages and Co2 Levels
+-<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
+-<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
+-<img src="Economic Damages of All Events by Year.png" alt="hi" class="inline"/>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Conclusion and Takeaways
+
+Floods, Droughts/Heat Waves/Fires, and Winter Weather events all show mild correlations between the economic damages they caused and rising CO2 levels. However, it does not completely resolve the question posed at the beginning of this project. To further this research, it may be useful to see if either increases in temperaure or increases in other greenhouse gases are more correlated with severe weather events. 
+
+Additionally, a 25 year window is not a reasonable time frame to detect extremely severe weather events. For example, the term '100 year flood' is used to describe a flood of a certain severity that has an average rate of occurence of once every 100 years. So, if floods as severe as '100 year floods' were occuring twice as often as they used to be, there is only a 39.3% chance that one or more floods of that magnitude would even be observed in a 25 year sampling period. This makes the detection of an increase in this type of extreme weather event difficult. Unfortunately, longitudinal data that this type of study would require, and with the same level of detail as the dataset used in this project, may be impossible to obtain. 
+
+Finally, it was fairly obvious from the analysis that a large number of extreme weather events occured in areas that the United States relies on for agricultural production (Great Plains, the Mississippi River Watershed, and the Gulf of Mexico). To determine the risk this may cause to the economy, a more focused study of weather trends in that region may be necessary. 
+
 
 This project is also published on Zenodo at: [Link](url)
 
