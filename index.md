@@ -12,7 +12,7 @@ The data weather data I used for this project came from the National Oceanic and
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](Economic Damages of All Events by Year.png)
+[Link](url) and ![Image](https://github.com/nickblackmore/DATS-6103---Individual-Project-2--Nicholas-Blackmore-Web-Page/Economic-Damages-of-All-Events-by Year.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
