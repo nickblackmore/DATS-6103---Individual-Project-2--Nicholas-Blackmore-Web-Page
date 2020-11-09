@@ -37,7 +37,7 @@ Floods, Droughts/Heat Waves/Fires, and Winter Weather events all show mild corre
 
 Additionally, a 25 year window is not a reasonable time frame to detect extremely severe weather events. For example, the term '100 year flood' is used to describe a flood of a certain severity that has an average rate of occurence of once every 100 years. So, if floods as severe as '100 year floods' were occuring twice as often as they used to be, there is only a 39.3% chance that one or more floods of that magnitude would even be observed in a 25 year sampling period. This makes the detection of an increase in this type of extreme weather event difficult. Unfortunately, longitudinal data that this type of study would require, and with the same level of detail as the dataset used in this project, may be impossible to obtain. 
 
-Finally, it was fairly obvious from the analysis that a large number of extreme weather events occured in areas that the United States relies on for agricultural production (Great Plains, the Mississippi River Watershed, and the Gulf of Mexico). To determine the risk this may cause to the economy, a more focused study of weather trends in that region may be necessary. 
+Finally, it was fairly obvious from the analysis that a large number of extreme weather events occured in areas that the United States relies on for agricultural production (Great Plains, the Mississippi River Watershed, and the Gulf of Mexico). To determine the risk this may cause to the economy, a more focused study of weather trends in that region may be necessary.  
 
 
 This project is also published on Zenodo at: [Link](url)
