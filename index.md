@@ -40,5 +40,5 @@ Additionally, a 25 year window is probably not a reasonable time frame to detect
 Finally, it was fairly obvious from the analysis that a large number of extreme weather events occured in areas that the United States relies on for agricultural production (Great Plains, the Mississippi River Watershed, and the Gulf of Mexico). To determine the risk this may cause to the economy, a more focused study of weather trends those regions may be necessary.  
 
 
-This project is also published on Zenodo at: [Link](url)
+This project is also published on Zenodo: [Trends in Severe Weather Events in the United States](https://zenodo.org/record/4265246#.X6m1XkJKhhE)
 
