@@ -1,25 +1,14 @@
-## Welcome to GitHub Pages
+## Trends in Severe Weather Events in the United States
 
-You can use the [editor on GitHub](https://github.com/nickblackmore/DATS-6103---Individual-Project-2--Nicholas-Blackmore-Web-Page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Lately there has been considerable attention amongst climate scientists given to the seemingly growing unpredicatbility of the climate. Many scientists assert that anthropogenic  climate change is responsible for an increase of "severe" weather events. In this project, I will explore directly whether this perveived increase in frequency corresponds with an increase economic damage due these climate events. For the purposes of this project, property damage, crop damage, and number of deaths will be used to determine the 'economic severity' of weather events.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Data Analysis Process
 
-### Markdown
+The data weather data I used for this project came from the National Oceanic and Atmospheric Administration and the carbon dioxide level data came from the Scrips Institute. Both data sets can be found on my github page: [DATS-6103 - Individual Project 2 - Nicholas Blackmore](https://github.com/nickblackmore/DATS-6103---Individual-Project-2--Nicholas-Blackmore). In terms of cleaning and pre-processing the data, my main tasks were adjusting monetary values for inflation; creating a singular metric for 'economic severity' using the Value of a Statistical Life (VSL), monetary value of crop damages, and monetary value of crop damage; and combining weather events in instances where they entered into the dataframe as different events. After I accomplished this, I was able to visualize the data. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Visualizations
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. !
 
 **Bold** and _Italic_ and `Code` text
 
